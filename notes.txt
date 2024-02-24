@@ -1,0 +1,14 @@
+#+title: Notes
+
+
+* Links:
+** Reddit Links:
+*** https://www.reddit.com/r/wgu_devs/comments/1707qbf/i_passed_user_interface_design_d279/
+*** https://www.reddit.com/r/wgu_devs/comments/1aivji2/d279_user_interface_design_help/
+*** https://www.reddit.com/r/WGU/comments/15llwh3/d279_user_interface_design/
+** Sample Page (Original):
+*** https://access.wgu.edu/ASP3/aap/content/Home.html
+** Course Material Link:
+*** https://lrps.wgu.edu/provision/279989776
+** Course Chatter Link:
+*** https://srm--c.vf.force.com/apex/FDP/CommonsExpandedChatter?code=D279
